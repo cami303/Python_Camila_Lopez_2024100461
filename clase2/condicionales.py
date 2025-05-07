@@ -4,8 +4,8 @@ Condicionales
 dato= int(input("Ingrese un numero: "))
 
 if dato > 0:
-    print("Numero positivo")
+    print("El numero ingreado es positivo")
 elif dato ==0:
-    print("Resultado negativo")
+    print("El numero ingresado es igual a cero")
 else:
-    print("Numero positivo")
+    print("El numero ingresado es negativo")

@@ -1,3 +1,12 @@
+#Esto es un comentario entre una linea
+
+
+'''
+Esto es un comentario de multilineas
+
+
+'''
+
 print("Esto es programacion Python en la unida")
 
 n1=50
@@ -8,7 +17,7 @@ print(n2)
 
 
 palabra="Esto es un texto de ejemplo"
-dato=True
+dato=True   #Se realiza la asignacion de True a la variable dato part la funcion de suma
 
 print(type(n1))
 print(type(n2))
